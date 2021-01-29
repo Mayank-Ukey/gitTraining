@@ -1,0 +1,2 @@
+# gitTraining
+Persistent Github training
