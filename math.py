@@ -10,4 +10,4 @@ def mul(x, y):
     return x*y 
 
 def div(x, y):
-    pass
+    return x/y
